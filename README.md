@@ -1,5 +1,5 @@
 # First_git_repository
-Working  in project with github
-Localhost.server = Tomcat with port 5022;
-System.out.println("java syntax");
+Working  in project with github<br>
+Localhost.server = Tomcat with port 5022;<br>
+System.out.println("java syntax");<br>
 
